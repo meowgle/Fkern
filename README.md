@@ -7,7 +7,7 @@ Fkern can ONLY be compiled with the arduino ide 1.8.16 and older
 or any compiler that was not released after arduino ide version 1.8.16
 
 # built in shell commands
-i = info
-r = read file in memory
-s = save file in memory
-[numbers] = FPL program input
+i = info <br>
+r = read file in memory <br>
+s = save file in memory <br>
+[numbers] = FPL program input <br>
